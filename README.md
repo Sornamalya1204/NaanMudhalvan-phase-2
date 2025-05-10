@@ -60,8 +60,8 @@ Visualization	matplotlib, seaborn, wordcloud
 ├── Dataset.csv # Labeled news articles ├── source_code.py # Python code for training and evaluation └── read.md # This documentation
 
 Team Members and Roles
-  Name	               Responsibility
-Sornamalya T	  Data cleaning & preprocessing
-Thasmiya M	    EDA & Feature engineering
-Deepika D	      Model development & tuning
-Abirami B	      Visualization & documentation
+  Name	                  Responsibility
+Sornamalya T	      Data cleaning & preprocessing
+Thasmiya M	        EDA & Feature engineering
+Deepika D	          Model development & tuning
+Abirami B	          Visualization & documentation
