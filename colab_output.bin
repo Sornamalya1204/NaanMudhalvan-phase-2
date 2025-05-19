@@ -1,0 +1,23 @@
+## Google Colab Output (Sample Logs)
+
+Training Logistic Regression...
+Accuracy: 0.89
+Classification Report:
+              precision    recall  f1-score   support
+        FAKE       0.87      0.90      0.88       880
+        REAL       0.91      0.88      0.89       880
+Confusion Matrix:
+[[792  88]
+ [106 774]]
+
+Training Random Forest...
+Accuracy: 0.93
+Classification Report:
+              precision    recall  f1-score   support
+        FAKE       0.92      0.94      0.93       880
+        REAL       0.94      0.92      0.93       880
+Confusion Matrix:
+[[829  51]
+ [ 70 810]]
+
+ROC Curve Comparison: AUC-ROC (Logistic: 0.95, Random Forest: 0.97)
